@@ -1,2 +1,2 @@
 # **EE-322**
-## Engineering Design VI
+## _Engineering Design VI_
