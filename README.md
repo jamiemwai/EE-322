@@ -9,7 +9,7 @@ After successful completion of this course, I will be able to:
 * Make informed ethical decisions
 * Hone written and oral communication skills
 
-This is the [class website](https://sites.google.com/view/ece322)
+This is the [class website](https://sites.google.com/view/ece322).
 
 Stevens Honor Pledge:
 > I pledge my honor that I have abided by the Stevens Honor System.
