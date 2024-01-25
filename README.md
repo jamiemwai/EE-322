@@ -14,4 +14,4 @@ This is the [class website](https://sites.google.com/view/ece322).
 Stevens Honor Pledge:
 > I pledge my honor that I have abided by the Stevens Honor System.
 
-![Stevens logo.](file:///Users/jamiemwai/Desktop/Screenshot%202024-01-25%20at%2011.49.02%E2%80%AFAM.png)
+![Stevens logo.](https://i.pinimg.com/736x/65/67/3d/65673df00a2c8a0e8cbeb68abb7174e4.jpg)
