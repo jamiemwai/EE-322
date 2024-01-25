@@ -1,5 +1,10 @@
 # **EE-322**
 ## _Engineering Design VI_
+
+Course prerequisites/corequisites:
+1.ENGR 122
+1./EE 345
+
 After successful completion of this course, I will be able to:
 * Formulate problems correctly
 * Work successfully in interdisciplinary teams
