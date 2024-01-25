@@ -19,4 +19,4 @@ This is the [class website](https://sites.google.com/view/ece322).
 Stevens Honor Pledge:
 > I pledge my honor that I have abided by the Stevens Honor System.
 
-![Stevens logo.](https://i.pinimg.com/736x/65/67/3d/65673df00a2c8a0e8cbeb68abb7174e4.jpg)
+![Stevens Institute of Technology.](https://images.ctfassets.net/mviowpldu823/CQGYOjZT6w4kt5ZkYeGf2/4dff7ced7a346159b387f0d6aca1eee6/20230413_STEVENS-515.jpg)
