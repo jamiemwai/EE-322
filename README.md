@@ -1,4 +1,4 @@
-# **EE-322**
+# EE-322
 ## *Engineering Design VI*
 
 Course prerequisites/corequisites:
@@ -16,14 +16,9 @@ Throughout this course I will learn to:
 
 This is the [class website](https://sites.google.com/view/ece322).
 
-`#include <iostream>
-using namespace std;
-int main()
-{
-    cout << "This is some example code." << endl;
-}`
+`cout << "This is some example code." << endl;`
 
-Stevens Honor Pledge:
+**Stevens Honor Pledge:**
 > I pledge my honor that I have abided by the Stevens Honor System.
 ---
-![Image of the Stevens sign and waterfall with a view of the NYC skyline in the background.](https://images.ctfassets.net/mviowpldu823/CQGYOjZT6w4kt5ZkYeGf2/4dff7ced7a346159b387f0d6aca1eee6/20230413_STEVENS-515.jpg)
+![Image of the Stevens sign and fountain with a view of the NYC skyline in the background.](https://images.ctfassets.net/mviowpldu823/CQGYOjZT6w4kt5ZkYeGf2/4dff7ced7a346159b387f0d6aca1eee6/20230413_STEVENS-515.jpg)
